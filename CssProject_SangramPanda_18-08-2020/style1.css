@@ -1,0 +1,96 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial;
+    margin: 0;
+}
+
+.header {
+    padding: 10px;
+    text-align: center;
+    background:yellowgreen;
+    color:brown;
+    height: 120px;
+    display: block;
+}
+
+.row {
+    display: block;
+    height: 460px;
+    width: auto;
+}
+
+.navbar {
+    display: inline-block;
+    vertical-align: top;
+    background-color:tomato;
+    height: 460px;
+    width: 150px;
+    padding: 10px;
+}
+
+.main {
+    display: inline-block;
+    background-color: gray;
+    height: 460px;
+    width: auto;
+    padding: 5px;
+}
+
+.Block1 {
+    padding: 10px;
+}
+
+.Block2 {
+    padding: 10px;
+}
+
+#banner1 {
+    display: inline-block;
+    background-color: rgb(235, 148, 202);
+    height: 200px;
+    width: 580px;
+    padding: 10px;
+}
+
+#banner2 {
+    display: inline-block;
+    background-color: olive;
+    height: 200px;
+    width: 580px;
+    padding: 10px;
+}
+
+#block1 {
+    display: inline-block;
+    background-color: rgb(10, 14, 245);
+    height: 220px;
+    width: 384px;
+    padding: 10px;
+}
+
+#block2 {
+    display: inline-block;
+    background-color: rgb(129, 245, 12);
+    height: 220px;
+    width: 384px;
+    padding: 10px;
+}
+
+#block3 {
+    display: inline-block;
+    background-color: rgb(226, 135, 31);
+    height: 220px;
+    width: 384px;
+    padding: 10px;
+}
+
+.footer {
+    display: block;
+    padding: 5px;
+    text-align: center;
+    background: rgb(33, 36, 24);
+    color: aliceblue;
+}
